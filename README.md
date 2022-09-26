@@ -1,1 +1,1 @@
-# Machine-Learning - Classification of Handwritten Digits
+# Machine-Learning Projects
